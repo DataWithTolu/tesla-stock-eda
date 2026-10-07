@@ -8,6 +8,12 @@ This project analyzes Tesla historical stock price data using Python to identify
 
 The project demonstrates an end-to-end exploratory data analysis workflow, from data preparation and quality checks to statistical analysis and visualization.
 
+## Project Notebook
+
+The complete analysis, including data cleaning, exploratory analysis, statistical calculations, and visualizations, is available in the Jupyter Notebook:
+
+**[Tesla Stock Analysis Notebook](./Tesla_Stock_Analysis.ipynb)**
+
 ## Objectives
 
 - Analyze Tesla's historical closing price trend
